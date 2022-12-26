@@ -6,7 +6,7 @@
 
 ### **My Skils**
 
-Languages |                            | Languages      |                                   | Languages         |                                   | Languages     |
+Languages |                            | Languages      |                                   | Languages         |                                   | Languages     |                           |
 :------:  | :------:                   |    :------:    | :-----:                           | :------:          |   :-----:                         | :-----:       | :-----:
 HTML      | ![teste](./imgs/html.svg)  | CSS            | ![teste](./imgs/css.svg)          | JAVASCRIPT        | ![teste](./imgs/javascript.svg)   | Nest.js       | ![teste](./imgs/nest.svg)
 React.JS  | ![teste](./imgs/react.svg) | Node.js        | ![teste](./imgs/node.svg)         | Express.js        | ![teste](./imgs/express.svg)      | Figma         | ![teste](./imgs/figma.svg)
