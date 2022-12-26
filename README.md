@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Leonardo Strechar**
 - 👀 I’m Software Developer
-- 🌱 I’m from Parana/BR
-- 💞️ This id my website <https://leonardostrechar.github.io/MyPortfolio/>
+- 🌱 I’m from Paraná/BR
+- 💞️ This is my website <https://leonardostrechar.github.io/MyPortfolio/>
 - 📫 This is my e-mail: leonardostrechar@outloook.com
 
 ### **My Skils**
