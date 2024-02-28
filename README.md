@@ -6,9 +6,8 @@
 
 ### **My Skils**
 
-Languages |  
-HTML      | ![teste](./imgs/html.svg)  | ![teste](./imgs/css.svg)   | ![teste](./imgs/javascript.svg)  | ![teste](./imgs/nest.svg) | ![teste](./imgs/mongo.svg) |
-React.JS  | ![teste](./imgs/react.svg) | Node.js        | ![teste](./imgs/node.svg)         | Express.js        | ![teste](./imgs/express.svg)      | Figma         | ![teste](./imgs/figma.svg)| Vtex      | ![teste](./imgs/vtex.svg) 
-AWS       | ![teste](./imgs/aws.svg)   | TypeScript     | ![teste](./imgs/typescript.svg)   | Next.js           | ![teste](./imgs/next.svg)         | PostgreSql    | ![teste](./imgs/postgresql.svg) | MySQL         | ![teste](./imgs/mysql.svg)
-PHP       | ![teste](./imgs/php.svg)   | Docker         | ![teste](./imgs/docker.svg)       | Tailwind css      | ![teste](./imgs/tailwind.svg)     | 
+![teste](./imgs/html.svg)  ![teste](./imgs/css.svg)  ![teste](./imgs/javascript.svg)  ![teste](./imgs/nest.svg)  ![teste](./imgs/mongo.svg) 
+![teste](./imgs/react.svg)  ![teste](./imgs/node.svg) ![teste](./imgs/express.svg) ![teste](./imgs/figma.svg) ![teste](./imgs/vtex.svg) 
+![teste](./imgs/aws.svg)  ![teste](./imgs/typescript.svg) ![teste](./imgs/next.svg) ![teste](./imgs/postgresql.svg) ![teste](./imgs/mysql.svg)
+![teste](./imgs/php.svg) ![teste](./imgs/docker.svg) ![teste](./imgs/tailwind.svg) 
  
